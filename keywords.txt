@@ -1,0 +1,14 @@
+#######################################
+# Syntax Coloring Map For WSN
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+begin	KEYWORD1
+connect	KEYWORD1
+send	KEYWORD2
+recv	KEYWORD2
+wsn     KEYWORD1
+
+
